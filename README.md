@@ -17,3 +17,7 @@ Namaz Guide Android App available on Google Play https://play.google.com/store/a
 10. Hijri Calendar
 11. Muslim Holidays
 12. Gallery
+13. Gushl
+14. Wudu
+15. Adhan
+16. Namaz
