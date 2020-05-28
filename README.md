@@ -21,3 +21,4 @@ Namaz Guide Android App available on Google Play https://play.google.com/store/a
 14. Wudu
 15. Adhan
 16. Namaz
+17. Zikir Counter
